@@ -11,3 +11,4 @@ Clientes devem ser capazes de ignorar a diferença entre composições de objeto
 
 Exemplo de como deve ser uma estrutura Composite:
 
+![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Composite/Estrutura%20Composite.png)
