@@ -1,4 +1,4 @@
-# Template Composite
+# Template Method
 
 Compor objetos em estruturas que permitam aos clientes tratarem de maneira uniforme objetos individuais e composição de objetos.
 Algumas aplicações exigem que o mesmo tratamento seja dado tanto a objetos simples como estruturas formadas por vários objetos.
