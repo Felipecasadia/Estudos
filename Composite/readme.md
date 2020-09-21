@@ -30,3 +30,8 @@ Manipula objetos da composição através da interface do Componente.
 Exemplo de como deve ser uma estrutura Composite:
 
 ![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Composite/Estrutura%20Composite.png)
+
+Exemplo de um código em java:
+
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Composite/Exemplo%20Java)
+
