@@ -18,8 +18,8 @@ Um exemplo bem simplista seria um projeto com interface para Mobile e para Deskt
 
 #### Estrutura
 
-![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/AbstractFactory/Abstract_Factory.png)
+![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Abstract Factory/Abstract_Factory.png)
 
 #### Exemplo de código WidgetFactory:
 
-[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/AbstractFactory/Exemplo%20Java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Abstract Factory/Exemplo%20Java)
