@@ -18,4 +18,8 @@ Há uma extrema complexidade no código quando tentamos gerênciar comportamento
 
 #### Exemplo de código:
 
-[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/State/Exemplo%20Java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/State/Main.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/State/Livro.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/State/EstadoLivro.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/State/Disponivel.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/State/Emprestado.java)
