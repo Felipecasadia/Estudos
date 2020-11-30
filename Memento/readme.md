@@ -17,7 +17,7 @@ O problema do Memento é que por ele sempre estar guardando o estado do objeto, 
 
 #### Estrutura
 
-![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Memento/Memento.jpg)
+![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Memento/memento.png)
 
 #### Exemplo de código:
 
