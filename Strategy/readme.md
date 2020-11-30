@@ -29,7 +29,7 @@ Outra situação oportuna para o uso do padrão é em uma aplicação na qual se
 
 #### Estrutura
 
-![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Strategy/Strategy.png)
+![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/Strategy/Strategy.jpg)
 
 #### Exemplo de código:
 
