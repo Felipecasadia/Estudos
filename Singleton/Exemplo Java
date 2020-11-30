@@ -1,0 +1,22 @@
+public class SingletonDuplaVerificacao {
+
+	private static SingletonDuplaVerificacao instance;
+
+	private SingletonDuplaVerificacao() {}
+
+	public static SingletonDuplaVerificacao getInstance() {
+		if(instance == null) {
+			synchronized(SingletonDuplaVerificacao.class) {
+				if(instance == null) {
+					instance = new SingletonDuplaVerificacao();
+				}
+			}
+		}
+		return instance;
+	}
+
+}
+    Como usar: 
+        1: Deixar o construtor privado, assim evitando qualquer criar um NEW.
+        2: Atributos privados e Estatico do mesmo tipo da classe instance
+        3: Metodo getInstance();
