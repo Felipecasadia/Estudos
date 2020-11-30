@@ -33,7 +33,7 @@ Outra situação oportuna para o uso do padrão é em uma aplicação na qual se
 
 #### Exemplo de código:
 
-[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Strategy.java)
-[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Cargo.java)
-[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Funcionario.java)
-[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Venda.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Felino.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Leao.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/Leopardo.java)
+[Link do exemplo](https://github.com/Felipecasadia/Estudos/tree/master/Strategy/TigreToy.java)
