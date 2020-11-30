@@ -18,11 +18,6 @@ Acoplamento: Usando Singleton você estará acoplando o seu código em uma imple
 Escopo: Se você por alguma razão decidir que para determinado componente da aplicação você precisa de outra implementação terá que alterar manualmente todas as classes.
 Falsa segurança: No java, por exemplo, não existe uma classe apenas por JVM. O conceito de carregamento de classes em java é feito por ClassLoader.
 
-#### Consequências
-Possibilita baixo acoplamento entre os objetos dependentes (os observers) e o assunto.
-Acoplamento abstrato.
-Suporte para broadcast.
-Dificuldade em saber o que foi mudado.
 
 #### Estrutura
 
