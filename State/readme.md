@@ -14,7 +14,7 @@ Há uma extrema complexidade no código quando tentamos gerênciar comportamento
 
 #### Estrutura
 
-![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/State/State.png)
+![Estrutura](https://github.com/Felipecasadia/Estudos/blob/master/State/State.jpg)
 
 #### Exemplo de código:
 
